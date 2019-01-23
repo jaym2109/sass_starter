@@ -1,0 +1,19 @@
+{
+  "name": "sass_starter_pack",
+  "version": "1.0.0",
+  "description": "A sass starter pack that autocompiles sass projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Jason MacCuaig",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.0.1"
+  }
+}
